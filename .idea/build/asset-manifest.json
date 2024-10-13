@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13c547a4.css",
+    "main.js": "/static/js/main.2cf20259.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/synergylogo.png": "/static/media/synergylogo.9b43acf539d9fbc58eaa.png",
+    "index.html": "/index.html",
+    "main.13c547a4.css.map": "/static/css/main.13c547a4.css.map",
+    "main.2cf20259.js.map": "/static/js/main.2cf20259.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c547a4.css",
+    "static/js/main.2cf20259.js"
+  ]
+}
