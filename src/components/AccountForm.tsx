@@ -29,19 +29,19 @@ const AccountForm: React.FC<AccountFormProps> = ({ onSubmit })=> {
     };
 
     return (
-        <form onSubmit=(handleSubmit)>
+        <form onSubmit={handleSubmit}>
             <label>Account Name:</label>
-                <input type="text" name="accountName" onChange={handleChange} />
+            <input type="text" name="accountName" onChange={handleChange} />
 
-                <label>Account Number:</label>
-                <input type="text" name="accountNumber" onChange={handleChange} />
+            <label>Account Number:</label>
+            <input type="text" name="accountNumber" onChange={handleChange} />
 
-                {/* Add more fields for other account properties... */}
+            {/* Add more fields for other account properties... */}
 
-                <button type="submit">Submit</button>
-            </form>
-            );
-        );
+            <button type="submit">Submit</button>
+        </form>
+    );
+};
 
-import default AccountForm;
+export default AccountForm;
 
